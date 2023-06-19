@@ -9,5 +9,5 @@ Here's a quick look at your toolbox for this challenge 🛠️💼📚: <br>
 💵 'fare': What's the base fare for the journey? <br>
 💲 'tip': How much did the driver receive in tips? <br>
 🎀 'miscellaneous_fees': Were there any additional charges during the trip? <br>
-💰 'total_fare': The grand total for the ride (this is your prediction target!). <br>
+💰 'total_fare': The grand total for the ride (this is your **prediction target**!). <br>
 ⚡ 'surge_applied': Was there a surge pricing applied? Yes or no? <br>
